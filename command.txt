@@ -1,1 +1,1 @@
-New content
+create a file /Users/ranke/OneDrive/Escritorio/test/a-newfile.js
